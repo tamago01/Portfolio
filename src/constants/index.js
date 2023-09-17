@@ -1,5 +1,5 @@
 import {
-    mobile,
+  
     backend,
     creator,
     web,
@@ -12,8 +12,6 @@ import {
     nodejs,
     mongodb,
     git,
-    java,
-    CSharp,
     mysql,
     esports,
     Books4u,
@@ -68,10 +66,6 @@ import {
       icon: javascript,
     },
     {
-      name: "C-Sharp",
-      icon: CSharp,
-    },
-    {
       name: "React JS",
       icon: reactjs,
     },
@@ -91,10 +85,7 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    {
-      name: "Java",
-      icon: java,
-    },
+
     {
       name: "git",
       icon: git,

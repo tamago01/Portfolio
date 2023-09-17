@@ -21,8 +21,6 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import CSharp from "./tech/CSharp.png";
-import java from "./tech/java.png";
 import mysql from "./tech/mysql.png";
 
 import esports from "./esports.png";
@@ -49,8 +47,6 @@ export {
   redux,
   tailwind,
   typescript,
-  java,
-  CSharp,
   mysql,
   threejs,
   Books4u,
