@@ -99,12 +99,16 @@ import {
   
   const experiences = [
     {
-      title:"Test Developer",
-      company_name: "coming soon",
-      icon: null,
+      title:"Fullstack Developer",
+      company_name: "eSportsPortal",
+      icon: esports,
       iconBg: "#E6DEDD",
-      date:"coming soon",
-      points: ["coming soon"],
+      date:"July-Aug 2023",
+      points: [
+        "Developing and maintaining web applications using React, tailwind, material-UI, git, node, express, mongodb and other technologies.",
+        "Collaborating with other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
+      ],
     },
     {
       title:"Test Developer",
