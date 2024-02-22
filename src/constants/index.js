@@ -103,7 +103,7 @@ import {
       company_name: "eSportsPortal",
       icon: esports,
       iconBg: "#E6DEDD",
-      date:"July-Aug 2023",
+      date:"Apr-Oct 2023",
       points: [
         "Developed and customized a homepage, login page, proﬁle page, search section, coach dashboard and its functionalities.",
         "Implemented Redux for state management and JWT for authentication/authorization of different user roles and functionalities",
