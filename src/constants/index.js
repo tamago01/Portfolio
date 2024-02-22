@@ -105,9 +105,10 @@ import {
       iconBg: "#E6DEDD",
       date:"July-Aug 2023",
       points: [
-        "Developing and maintaining web applications using React, tailwind, material-UI, git, node, express, mongodb and other technologies.",
-        "Collaborating with other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Developed and customized a homepage, login page, proﬁle page, search section, coach dashboard and its functionalities.",
+        "Implemented Redux for state management and JWT for authentication/authorization of different user roles and functionalities",
+        "Integrated RESTApi(Khalti) as a payment gateway.",
+        "Used Git for version control and hosted via Vercel."
       ],
     },
     {
