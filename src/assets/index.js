@@ -24,7 +24,8 @@ import threejs from "./tech/threejs.svg";
 import mysql from "./tech/mysql.png";
 
 import esports from "./esports.png";
-import Books4u from "./Books4u.png"
+import Books4u from "./Books4u.png";
+import vehiclerental from "./vehiclerental.png";
 
 
 export {
@@ -50,5 +51,6 @@ export {
   mysql,
   threejs,
   Books4u,
-  esports
+  esports,
+  vehiclerental,
 };
