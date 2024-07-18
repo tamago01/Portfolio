@@ -99,11 +99,21 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Software Developer",
+    company_name: "Sand Console Pvt. Ltd.",
+    icon: "https://media.licdn.com/dms/image/D5616AQHP1q8nwNv93A/profile-displaybackgroundimage-shrink_200_800/0/1690838031809?e=2147483647&v=beta&t=mNBNvPmsZTj0GcZQKVfYVLPR3tn7gAMK6EZato4HBnc",
+    iconBg: "#E6DEDD",
+    date: "July 2024 - Present",
+    points: [
+      "."
+    ],
+  },
+  {
     title: "Frontend Developer",
     company_name: "Render Booking Pvt. Ltd.",
     icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv3mdgtprFFg8ifRzBBetSyNf_diAPkWDZMNe6mgWvyA&s",
     iconBg: "#E6DEDD",
-    date: "Feb 2024 - Present",
+    date: "Feb 2024 - July 2024",
     points: [
       "Developed responsive user interfaces for Render Booking's web application using HTML5, CSS3, and JavaScript.",
       "Collaborated with designers and backend developers to implement user-friendly features and ensure seamless integration between frontend and backend systems.",
