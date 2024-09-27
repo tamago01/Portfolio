@@ -15,7 +15,6 @@ import {
   esports,
   vehiclerental,
   Books4u,
-
 } from "../assets";
 
 export const navLinks = [
@@ -46,10 +45,10 @@ const services = [
     title: "Backend Developer",
     icon: backend,
   },
-  {
-    title: "Content Writing",
-    icon: creator,
-  },
+  // {
+  //   title: "Content Writing",
+  //   icon: creator,
+  // },
 ];
 
 const technologies = [
@@ -103,9 +102,13 @@ const experiences = [
     company_name: "Sand Console Pvt. Ltd.",
     icon: "https://media.licdn.com/dms/image/D5616AQHP1q8nwNv93A/profile-displaybackgroundimage-shrink_200_800/0/1690838031809?e=2147483647&v=beta&t=mNBNvPmsZTj0GcZQKVfYVLPR3tn7gAMK6EZato4HBnc",
     iconBg: "#E6DEDD",
-    date: "July 2024 - Present",
+    date: "Feb 2024 - Jul 2024",
     points: [
-      "."
+      "Integrated Mixpanel to monitor and analyze traffic on the company’s service platform, providing valuable insights into user behavior.",
+      "Designed and implemented REST APIs for features like filtering, podcast management, and bookmark functionality.",
+      "Refactored previous codebase and updated UI and functionalities to align with the latest requirement on Frontend.",
+      "Integrated Strapi for headless content management, streamlining content handling.",
+      "Actively participated in Agile development methodologies, including sprint planning, daily stand-ups, and retrospectives.",
     ],
   },
   {
@@ -113,14 +116,14 @@ const experiences = [
     company_name: "Render Booking Pvt. Ltd.",
     icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv3mdgtprFFg8ifRzBBetSyNf_diAPkWDZMNe6mgWvyA&s",
     iconBg: "#E6DEDD",
-    date: "Feb 2024 - July 2024",
+    date: "Jun 2023 - Jan 2024",
     points: [
-      "Developed responsive user interfaces for Render Booking's web application using HTML5, CSS3, and JavaScript.",
+      "Developed responsive user interfaces for Render Booking's web application.",
       "Collaborated with designers and backend developers to implement user-friendly features and ensure seamless integration between frontend and backend systems.",
       "Implemented client-side form validations and error handling using Formik, to improve user experience and data integrity.",
       "Utilized modern frontend libraries such as Shadcn and MUI to build dynamic and interactive components.",
       "Optimized website performance and loading speeds through techniques like code splitting, lazy loading, and image optimization.",
-      "Actively participated in Agile development methodologies, including sprint planning, daily stand-ups, and retrospectives.",
+      
     ],
   },
   {
@@ -156,7 +159,6 @@ const testimonials = [
 ];
 
 const projects = [
-  
   {
     name: "Vehicle Rental",
     description:
